@@ -1,2 +1,1 @@
-# ZKAiKitProtocolX
-Advanced ZKAiKitProtocolX project
+.
